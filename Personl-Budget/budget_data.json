@@ -1,0 +1,58 @@
+[
+  {
+    "id": 2310910646800,
+    "description": "Job",
+    "amount": 25000.0,
+    "type": "Income",
+    "category": "Salary",
+    "date": "2025-10-30 21:51:21"
+  },
+  {
+    "id": 2312839448080,
+    "description": "Grossery",
+    "amount": 2500.0,
+    "type": "Expense",
+    "category": "Food",
+    "date": "2025-10-30 21:51:47"
+  },
+  {
+    "id": 2310949053456,
+    "description": "University",
+    "amount": 5000.0,
+    "type": "Expense",
+    "category": "Education",
+    "date": "2025-10-30 21:52:11"
+  },
+  {
+    "id": 2310949468880,
+    "description": "Movie",
+    "amount": 1000.0,
+    "type": "Expense",
+    "category": "Entertainment",
+    "date": "2025-10-30 21:52:38"
+  },
+  {
+    "id": 2310948907856,
+    "description": "Travelling",
+    "amount": 4500.0,
+    "type": "Expense",
+    "category": "Transportation",
+    "date": "2025-10-30 21:53:01"
+  },
+  {
+    "id": 2310949731792,
+    "description": "Health",
+    "amount": 3560.0,
+    "type": "Expense",
+    "category": "Healthcare",
+    "date": "2025-10-30 21:53:30"
+  },
+  {
+    "id": 2310949674256,
+    "description": "Clothes and Shoes",
+    "amount": 4000.0,
+    "type": "Expense",
+    "category": "Shopping",
+    "date": "2025-10-30 21:55:09"
+  }
+]
